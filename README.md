@@ -5,6 +5,7 @@ A repository to centralize @rocketseat React specialization certificates
 This was a 50h course specialization, , with: 7 guided projects + 7 challenge projects. 
 
 ![image](https://github.com/user-attachments/assets/9c928378-5c82-4d76-945f-244e024587a3)
+Date: **11.30.2024** | ID: `349215e8−4705−4cd6−8621−75aacfb888eb` | Verify at [Rocketseat Certificates](https://app.rocketseat.com.br/certificates/349215e8-4705-4cd6-8621-75aacfb888eb)
 
 ### Understanding:
 - Different types of State
