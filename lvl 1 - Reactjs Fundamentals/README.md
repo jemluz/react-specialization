@@ -21,7 +21,7 @@ You can access 💻 the app at: [little-blog.vercel.app](https://little-blog.ver
 ## Issues and Discussions
 
 - ### [Setup environment #1](https://github.com/jemluz/little-blog/issues/1)
-  - Oldschool SSRs e SPAs
+  - [Oldschool SSRs e SPAs](https://github.com/jemluz/react-specialization/blob/main/lvl%201%20-%20Reactjs%20Fundamentals/Oldschool%20SSRs%20and%20SPAs.md)
   - Bundlers & Compilers
   - The holy trinity / A santa trindade
   - Components
