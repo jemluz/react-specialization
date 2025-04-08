@@ -22,7 +22,7 @@ You can access 💻 the app at: [little-blog.vercel.app](https://little-blog.ver
 
 - ### [Setup environment #1](https://github.com/jemluz/little-blog/issues/1)
   - [Oldschool SSRs e SPAs](https://github.com/jemluz/react-specialization/blob/main/lvl%201%20-%20Reactjs%20Fundamentals/Oldschool%20SSRs%20and%20SPAs.md)
-  - Bundlers & Compilers
+  - [Bundlers & Compilers](https://github.com/jemluz/react-specialization/blob/jemluz-patch-lvl-1/lvl%201%20-%20Reactjs%20Fundamentals/Bundlers%20and%20compilers.md)
   - The holy trinity / A santa trindade
   - Components
   - Proprerties
