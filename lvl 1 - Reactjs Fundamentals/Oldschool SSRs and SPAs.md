@@ -10,9 +10,9 @@ But beyond that you need to understand a little about rendering patterns 👇�
 
 ## Oldschool SSRs and SPAs 
 
-Rendering patterns are specific ways how the HTML, CSS, and JavaScript codes will be processed and rendered in a web application or website.
+Rendering patterns are specific ways how the $${\color{orange}HTML}$$ , $${\color{cyan}CSS}$$, and $${\color{yellow}JavaScript}$$ codes will be processed and rendered in a web application or website.
 
-So, in the past we used SSR, after we start to using SPA, (then now we are going back to SSR, but that's not the point now)
+Different rendering patterns are used to achieve different performance and user experience goals. SSR and SPA are examples of that. So, in the past we used SSR, and after we start to using SPA (then now we are going back to SSR, but that's not the point now).
 
 ### SPA → Single Page Application (React, Angular, Vue…)
 
